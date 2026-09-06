@@ -1,0 +1,96 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Aidil Nasir",
+    "username": "AidilNasir",
+    "headline": "Full-Stack & Mobile App Developer (Flutter)",
+    "affiliation": "Freelance / Independent Developer",
+    "location": "Kendari, Indonesia",
+    "status": "Available for freelance projects",
+    "about": [
+      "Full-Stack Developer dan UI/UX enthusiast dari Indonesia, fokus membangun aplikasi web yang handal dengan Laravel dan CodeIgniter, serta aplikasi mobile interaktif menggunakan Flutter.",
+      "Menggabungkan logika kode dengan estetika desain — dari backend PHP hingga tampilan UI yang rapi dan mudah digunakan."
+    ]
+  },
+  "research": {
+    "primary": "Full-Stack Development",
+    "direction": "Web & mobile product builder",
+    "themes": "Laravel, CodeIgniter, Flutter, UI/UX",
+    "narrative": "Fokus membangun produk web dan mobile secara menyeluruh: backend PHP yang solid dengan Laravel dan CodeIgniter, aplikasi mobile lintas platform dengan Flutter, dan tampilan antarmuka yang dirancang dengan prinsip UI/UX yang baik."
+  },
+  "focus": [
+    {
+      "name": "Web Development",
+      "description": "Membangun aplikasi web dengan Laravel dan CodeIgniter, didukung MySQL."
+    },
+    {
+      "name": "Mobile Development",
+      "description": "Membangun aplikasi mobile lintas platform dengan Flutter dan Dart."
+    },
+    {
+      "name": "UI/UX Design",
+      "description": "Merancang antarmuka dan branding menggunakan Figma dan Photoshop."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ganti Nama Proyek",
+      "url": "https://github.com/AidilNasir/GANTI-DENGAN-REPO-ASLI",
+      "focus": "Ganti dengan fokus proyek",
+      "summary": "Ganti dengan ringkasan singkat proyek unggulan pertama kamu (10-220 karakter).",
+      "heroLabel": "Ganti Label"
+    },
+    {
+      "name": "Ganti Nama Proyek",
+      "url": "https://github.com/AidilNasir/GANTI-DENGAN-REPO-ASLI-2",
+      "focus": "Ganti dengan fokus proyek",
+      "summary": "Ganti dengan ringkasan singkat proyek unggulan kedua kamu (10-220 karakter).",
+      "heroLabel": "Ganti Label"
+    }
+  ],
+  "techStack": [
+    "PHP",
+    "Laravel",
+    "CodeIgniter",
+    "Flutter",
+    "Dart",
+    "MySQL",
+    "Firebase",
+    "JavaScript",
+    "HTML5",
+    "CSS3",
+    "Git",
+    "Figma"
+  ],
+  "links": [
+    {
+      "label": "Email",
+      "value": "aidilputranasir@gmail.com",
+      "url": "https://mail.google.com/mail/?view=cm&fs=1&to=aidilputranasir@gmail.com",
+      "logo": "gmail",
+      "color": "D14836"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "GANTI-USERNAME",
+      "url": "https://linkedin.com/in/GANTI-USERNAME",
+      "logo": "linkedin",
+      "color": "0077B5"
+    },
+    {
+      "label": "Instagram",
+      "value": "GANTI-USERNAME",
+      "url": "https://instagram.com/GANTI-USERNAME",
+      "logo": "instagram",
+      "color": "E4405F"
+    }
+  ],
+  "activity": {
+    "enabled": true,
+    "limit": 5
+  },
+  "appearance": {
+    "palette": "ocean"
+  },
+  "footer": "Menggabungkan logika kode dengan estetika desain."
+}
