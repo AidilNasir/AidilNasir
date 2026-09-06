@@ -34,18 +34,18 @@
   ],
   "projects": [
     {
-      "name": "Ganti Nama Proyek",
-      "url": "https://github.com/AidilNasir/GANTI-DENGAN-REPO-ASLI",
-      "focus": "Ganti dengan fokus proyek",
-      "summary": "Ganti dengan ringkasan singkat proyek unggulan pertama kamu (10-220 karakter).",
-      "heroLabel": "Ganti Label"
+      "name": "PT. AJM Nusantara",
+      "url": "#",
+      "focus": "Aplikasi Distributor Semen",
+      "summary": "Sistem manajemen dan monitoring distribusi semen digital untuk mengoptimalkan rantai pasok serta operasional PT. AJM Nusantara Mandiri.",
+      "heroLabel": "Distribusi Semen"
     },
     {
-      "name": "Ganti Nama Proyek",
-      "url": "https://github.com/AidilNasir/GANTI-DENGAN-REPO-ASLI-2",
-      "focus": "Ganti dengan fokus proyek",
-      "summary": "Ganti dengan ringkasan singkat proyek unggulan kedua kamu (10-220 karakter).",
-      "heroLabel": "Ganti Label"
+      "name": "Produktivitas Digital Kendari",
+      "url": "https://bpvpkendari.kemnaker.go.id/prodik/",
+      "focus": "Sistem Manajemen Produktivitas Digital Kendari",
+      "summary": "Platform produktivitas digital terintegrasi untuk mengoptimalkan manajemen tugas, kolaborasi tim, dan efisiensi operasional bisnis lokal di Kota Kendari.",
+      "heroLabel": "Solusi Produktivitas"
     }
   ],
   "techStack": [
